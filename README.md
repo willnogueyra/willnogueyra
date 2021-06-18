@@ -7,7 +7,7 @@
   <br>
   <br>
   <!-- redes sociais -->
-  <a href="https://www.linkedin.com/in/william-nogueira-870a98190/">
+  <a href="https://www.linkedin.com/in/willnogueyra/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <br>
