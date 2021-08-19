@@ -4,6 +4,7 @@
 
 <p align='center'>
   A student developer from Rio de Janeiro, Brazil.
+  Javascript fullstack
   <br>
   <br>
   <!-- redes sociais -->
