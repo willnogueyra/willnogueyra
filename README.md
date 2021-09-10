@@ -4,7 +4,7 @@
 
 <p align='center'>
   A student developer from Rio de Janeiro, Brazil.
-  Javascript fullstack
+  Front-End ReactJS
   <br>
   <br>
   <!-- redes sociais -->
