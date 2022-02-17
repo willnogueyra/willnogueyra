@@ -4,7 +4,7 @@
 
 <p align='center'>
   A student developer from Rio de Janeiro, Brazil.
-  Front-End ReactJS
+  Front-End ReactJS & React Native
   <br>
   <br>
   <!-- redes sociais -->
