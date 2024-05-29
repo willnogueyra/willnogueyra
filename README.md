@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A student developer from Rio de Janeiro, Brazil.
+  A student developer from Rio de Janeiro, Brazil. <br>
   Enthusiast DevOps & Python
   <br>
   <br>
